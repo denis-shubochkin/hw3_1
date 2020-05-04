@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3dkpe0subymlndcx?svg=true)](https://ci.appveyor.com/project/denis-shubochkin/hw3-1)
 # Домашнее задание к лекции «Unit-тестирование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
