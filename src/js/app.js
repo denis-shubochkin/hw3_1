@@ -3,4 +3,4 @@ import health from './basic';
 
 console.log('worked');
 
-console.log(health({name: 'Маг', health: 90}));
+console.log(health({ name: 'Маг', health: 90 }));
